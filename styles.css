@@ -12,10 +12,11 @@ body {
 }
 
 header {
-	
+	font-family: "Papyrus";
 }
 
 footer {
+	font-family: "Papyrus";
 	font-style: italic;
 	font-size: 90%;
 }
